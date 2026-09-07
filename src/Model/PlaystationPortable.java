@@ -1,4 +1,4 @@
-package model;
+package Model;
 
 public class PlaystationPortable extends Product {
     public PlaystationPortable() {

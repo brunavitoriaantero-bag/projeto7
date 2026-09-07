@@ -1,6 +1,6 @@
-package factory;
+package Factory;
 
-import model.Product;
+import Model.Product;
 
 public abstract class ProductStore {
 

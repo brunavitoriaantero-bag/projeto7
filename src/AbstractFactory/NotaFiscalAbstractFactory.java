@@ -1,6 +1,6 @@
-package factory.abstractFactory;
+package AbstractFactory;
 
-import model.nota.NotaFiscal;
+import Nota.NotaFiscal;
 
 public interface NotaFiscalAbstractFactory {
     NotaFiscal createComputerNotaFiscal();

@@ -1,6 +1,6 @@
-package factory;
+package Factory;
 
-import model.*;
+import Model.*;
 
 public class ConcreteProductStore extends ProductStore {
 

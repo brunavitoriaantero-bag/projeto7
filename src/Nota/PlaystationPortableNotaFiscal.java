@@ -1,4 +1,4 @@
-package model.nota;
+package Nota;
 
 public class PlaystationPortableNotaFiscal implements NotaFiscal {
     @Override

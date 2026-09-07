@@ -1,7 +1,6 @@
-package factory;
+package AbstractFactory;
 
-import factory.abstractFactory.NotaFiscalAbstractFactory;
-import model.nota.*;
+import Nota.*;
 
 public class LojaEletronicosConcreteFactory implements NotaFiscalAbstractFactory {
 
